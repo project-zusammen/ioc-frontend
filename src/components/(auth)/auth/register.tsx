@@ -10,7 +10,7 @@ export const Register = () => {
         <Input type="text" placeholder="Enter your name" />
         <Input type="email" placeholder="Enter your email" />
         <Input type="password" placeholder="Enter your password" />
-        <Button>Login</Button>
+        <Button>Register</Button>
       </div>
     </main>
   );
