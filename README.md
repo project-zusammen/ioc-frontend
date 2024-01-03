@@ -1,23 +1,44 @@
 # ioc-frontend
-This is the frontend app for Indonesia Open Course using React JS
+
+This is the frontend app for Indonesia Open Course using Next.js
 
 Make sure that you've accepted the invitation to become contributor of this repo.
 
-To contribute:
+# Getting started
 
-1. Clone the repository
-    ```bash
-    git clone git@github.com:project-zusammen/ioc-frontend.git
-    ```
+1. Clone the new repository
 
-2. Checkout to a feature branch, add and commit your changes
-    ```bash
-    git checkout -b feat/short-desc-abt-the-feature
-    ```
+   ```bash
+   git clone git@github.com:project-zusammen/ioc-frontend.git
+   ```
 
-3. Push your feature branch
-    ```bash
-    git push origin feat/short-desc-abt-the-feature
-    ```
+2. Install dependencies
 
-4. Create a PR to the master branch
+   ```bash
+    pnpm install
+   ```
+
+3. Go to the project
+   ```bash
+    cd <your-project-name>
+   ```
+4. Run the project
+   ```bash
+    pnpm dev
+   ```
+
+# How to contribute:
+
+1. Checkout to a feature branch, add and commit your changes
+
+   ```bash
+   git checkout -b feat/short-desc-abt-the-feature
+   ```
+
+2. Push your feature branch
+
+   ```bash
+   git push origin feat/short-desc-abt-the-feature
+   ```
+
+3. Create a PR to the master branch
